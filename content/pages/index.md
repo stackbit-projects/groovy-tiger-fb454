@@ -24,7 +24,7 @@ sections:
           Use our handy editor to upload your ideas to envisary and share it
           with the world
         actions:
-          - label: Learn More
+          - label: Submit your idea now!
             url: /features
             style: secondary
             has_icon: true
