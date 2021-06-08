@@ -17,7 +17,7 @@ sections:
     background: gray
     title: Here's how it works
     features:
-      - title: The Best Feature of Your Services
+      - title: Create your own idea
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
