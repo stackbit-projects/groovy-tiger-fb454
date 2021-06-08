@@ -37,7 +37,7 @@ sections:
           Customize your feed or discover our suggested categories to find the
           ideas that interest you the most
         actions:
-          - label: Learn More
+          - label: Browse ideas now
             url: /features
             style: secondary
             has_icon: true
