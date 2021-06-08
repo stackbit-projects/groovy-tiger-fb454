@@ -50,7 +50,7 @@ sections:
           Comment and share ideas to refine them and to get input from every
           viewpoint
         actions:
-          - label: Learn More
+          - label: Discuss ideas now
             url: /features
             style: secondary
             has_icon: true
