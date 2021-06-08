@@ -20,10 +20,9 @@ sections:
       - title: Create your own idea
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Use our handy editor to upload your ideas to envisary and share it
+          with the world
         actions:
           - label: Learn More
             url: /features
