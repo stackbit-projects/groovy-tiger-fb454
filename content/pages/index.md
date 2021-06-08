@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Over 7.5 billion people are using Envisary each day
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      You should too!
     actions:
       - label: Learn More
         url: /features
